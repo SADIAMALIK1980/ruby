@@ -1,0 +1,2 @@
+
+puts "My first script!"
